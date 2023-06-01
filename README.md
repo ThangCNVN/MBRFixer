@@ -18,8 +18,9 @@ The Master Boot Record (MBR) is a crucial component of the Windows operating sys
 
 ## Todo
 
-- 📂 Added support for multiple versions of Windows.
+- 📂 Add support for multiple versions of Windows.
 - 💾 Allow writing custom boot records from a .bin file.
+- 🖥️ Add support for GUI (Graphical User Interface)
 
 ## Usage
 
