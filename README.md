@@ -6,7 +6,7 @@
 
 ## Overview
 
-The Master Boot Record (MBR) is a crucial component of the Windows operating system that stores essential information for booting the system. In certain situations, the MBR can become corrupt or overwritten, leading to booting issues. This project aims to provide a simple solution for recovering the MBR on Windows 10.
+The Master Boot Record (MBR) is a crucial component of the Windows operating system that stores essential information for booting the system. In certain situations, the MBR can become corrupt or overwritten, leading to booting issues. This project aims to provide a simple solution for recovering the MBR on Windows 10. ~~Too lazy to create a MakeFile~~
 
 ## Features
 
