@@ -12,6 +12,10 @@ The Master Boot Record (MBR) is a crucial component of the Windows operating sys
 
 - 🔄 Recover the MBR for Windows 10.
 
+## Risk
+
+- ❌ Only tested on Win10_22H2_x64 so it might not work for all version
+
 ## Todo
 
 - 📂 Added support for multiple versions of Windows.
