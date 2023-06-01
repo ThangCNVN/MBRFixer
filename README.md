@@ -23,14 +23,14 @@ Follow these steps to recover the Master Boot Record:
 
 1. Download the latest release from the [Releases]() page.
 2. Run the MBR recovery tool on your Windows 10 machine.
-~~3. Select the appropriate Windows version and follow the on-screen instructions.~~
-~~4. Optionally, you can write a custom boot record from a .bin file.~~
+<br>
+*3. Select the appropriate Windows version and follow the on-screen instructions. (not yet)
+<br>
+*4. Optionally, you can write a custom boot record from a .bin file. (not yet)
 
 ## Contributing
 
 Contributions are welcome! If you have ideas for improvements or encounter any issues, please open an issue or submit a pull request.
-
-## License
 
 ---
 
