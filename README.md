@@ -25,7 +25,7 @@ The Master Boot Record (MBR) is a crucial component of the Windows operating sys
 
 Follow these steps to recover the Master Boot Record:
 
-1. Download the latest release from the [Releases]() page.
+1. Download the latest release from the [Releases](https://github.com/ThangCNVN/MBRFixer/releases/tag/pre-release) page.
 2. Run the MBR recovery tool on your Windows 10 machine.
 <br>
 *3. Select the appropriate Windows version and follow the on-screen instructions. (not yet)
