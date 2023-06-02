@@ -34,6 +34,7 @@ int main()
     HANDLE hDevice = CreateFileW(L"\\\\.\\PhysicalDrive0", GENERIC_ALL, FILE_SHARE_READ | FILE_SHARE_WRITE, 0, OPEN_EXISTING, 0, 0);
     if (hDevice == INVALID_HANDLE_VALUE)
     {
+        MessageBoxW(NULL, L"Failed to open the device, check if you run as administrator", L"Error", MB_OK | MB_ICONERROR);
         std::cout << "Failed to open the device." << std::endl;
         return 1;
     }
