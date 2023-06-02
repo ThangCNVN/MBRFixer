@@ -29,7 +29,7 @@ You can find all version changelogs [here](https://github.com/ThangCNVN/MBRFixer
 
 Follow these steps to recover the Master Boot Record:
 
-1. Download the latest release from the [Releases](https://github.com/ThangCNVN/MBRFixer/releases/tag/pre-release) page.
+1. Download the latest release from the [Releases](https://github.com/ThangCNVN/MBRFixer/releases) page.
 2. Run the MBR recovery tool on your Windows 10 machine.
 3. Select the appropriate Windows version and then press 'Fix MBR'.
 <br>
