@@ -1,4 +1,4 @@
-### Changelog
+### Changelogs
 
 ✨**Version 0.0.0 - Test-version**
 
