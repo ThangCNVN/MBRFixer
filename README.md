@@ -14,6 +14,7 @@ You can find all version changelogs [here](https://github.com/ThangCNVN/MBRFixer
 ## Features
 
 - 🔄 Recover the MBR for Windows 10.
+- 🖥️ Support for GUI (Graphical User Interface)
 
 ## Risk
 
@@ -23,7 +24,6 @@ You can find all version changelogs [here](https://github.com/ThangCNVN/MBRFixer
 
 - 📂 Add support for multiple versions of Windows.
 - 💾 Allow writing custom boot records from a .bin file.
-- 🖥️ Add support for GUI (Graphical User Interface)
 
 ## Usage
 
@@ -31,8 +31,7 @@ Follow these steps to recover the Master Boot Record:
 
 1. Download the latest release from the [Releases](https://github.com/ThangCNVN/MBRFixer/releases/tag/pre-release) page.
 2. Run the MBR recovery tool on your Windows 10 machine.
-<br>
-**3. Select the appropriate Windows version and follow the on-screen instructions. (not yet)
+3. Select the appropriate Windows version and then press 'Fix MBR'.
 <br>
 **4. Optionally, you can write a custom boot record from a .bin file. (not yet)
 
