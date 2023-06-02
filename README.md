@@ -16,7 +16,7 @@ You can find all version changelogs [here](https://github.com/ThangCNVN/MBRFixer
 ## Features
 
 - 🔄 Recover the MBR for Windows 10.
-- 🖥️ Support for GUI (Graphical User Interface)
+- 🖥️ Support for GUI (Graphical User Interface - [Dear ImGui](https://github.com/ocornut/imgui))
 
 ## Risk
 
