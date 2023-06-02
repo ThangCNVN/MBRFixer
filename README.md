@@ -8,6 +8,9 @@
 
 The Master Boot Record (MBR) is a crucial component of the Windows operating system that stores essential information for booting the system. In certain situations, the MBR can become corrupt or overwritten, leading to booting issues. This project aims to provide a simple solution for recovering the MBR on Windows 10. This project originally is run in .NET C#, But some WinPE can't run .NET so I convert it to C++ and add some improvement. ~~Too lazy to create a MakeFile~~
 
+## Changelogs
+You can find all version changelogs [here](https://github.com/ThangCNVN/MBRFixer/blob/main/changelogs.md), from unrelease version to pre-release.
+
 ## Features
 
 - 🔄 Recover the MBR for Windows 10.
